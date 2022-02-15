@@ -1,1 +1,2 @@
-# VM-TestLab
+# testing-lab
+A place to run executables!
